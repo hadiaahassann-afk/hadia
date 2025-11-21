@@ -2,55 +2,57 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadia-hassan)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hadiaa.hassann@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=hadiaahassann-afk&style=flat&color=orange)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hadia-hassan)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hadiaa.hassann@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlbHRuam9wbnBta2l4MWV1aWl2b3dnb256ZWFkb2E3YnE0c3E5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L59aKICBlKwCYAauik/giphy.gif" alt="Data Analyst Working" width="500">
-</div>
+<p align="center">
+  <img src="/mnt/data/IMG_A387F91F-98C0-4AA1-9AF4-CFBAD0D9330D.jpeg" alt="Hadia Profile Screenshot" width="700"/>
+</p>
+
+---
+
+## 📈 GitHub Metrics (Auto-Updated)
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/hadiaahassann-afk?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FCairo" width="900"/>
+</p>
 
 ---
 
 ## 👩‍💻 About Me  
-I'm *Hadia Hassan, a passionate **Data Analyst* who enjoys cleaning data, analyzing trends, and building dashboards that deliver clear and meaningful insights.
+I’m *Hadia Hassan, a passionate **Data Analyst* who enjoys transforming raw data into clear, valuable insights.  
+I love building dashboards, analyzing patterns, and presenting results in a simple and effective way.
 
 ---
 
-## 🛠 My Data Analysis Toolkit  
+## 🚀 Skills  
+- *Power BI* (Data Modeling, DAX, Time Intelligence)  
+- *SQL* (Cleaning, Joins, Aggregations)  
+- *Python* (Pandas, Numpy)  
+- *Tableau*  
+- *Looker Studio*  
+- *Excel* (Pivot Tables, Analysis)  
+- *Data Storytelling & Visualization*
 
+---
+
+## 📂 Projects  
+- *Maintenance Cost Analysis Dashboard* — Power BI  
+- *Sales Performance Dashboard* — Power BI  
+- *SQL Data Cleaning Project* — SQL / Python  
+- *Trend Visualization* — Tableau / Looker Studio  
+
+---
+
+## 🌐 Connect With Me
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,sql,excel,tableau,powerbi,looker" style="margin-top: 10px;" />
+  
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/hadia-hassan)
+[![Gmail](https://img.icons8.com/color/32/000000/gmail.png)](mailto:hadiaa.hassann@gmail.com)
+[![GitHub](https://img.icons8.com/fluent/32/000000/domain.png)](https://github.com/hadiaahassann-afk)
+
 </div>
-
-<br>
-
-*Skills and Proficiencies:*
-* *Data Visualization & BI:* Power BI (Data Modeling, DAX), Tableau, Looker Studio
-* *Programming & Tools:* Python (Pandas, Numpy), SQL (Cleaning, Joins, Aggregations)
-* *Analysis & Storytelling:* Excel (Pivot Tables, Analysis), Data Storytelling  
-
----
-
-<div align="center">
-  <h2>📊 My GitHub Stats</h2>
-  <a href="https://github.com/hadiaahassann-afk">
-    <img src="https://github-readme-stats.vercel.app/api?username=hadiaahassann-afk&show_icons=true&theme=dark&line_height=27&hide_title=true&hide=issues,prs,contribs&bg_color=00000000&border_color=9f9f9f" alt="Hadia Hassan's GitHub Stats" />
-  </a>
-  <a href="https://github.com/hadiaahassann-afk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaahassann-afk&layout=compact&langs_count=6&theme=dark&bg_color=00000000&border_color=9f9f9f&hide_title=true" alt="Top Languages" />
-  </a>
-</div>
-
----
-
-## 📊 Portfolio Projects  
-- Maintenance Cost Analysis Dashboard  
-- Sales Performance Dashboard  
-- SQL Data Cleaning  
-- Trend Visualization in Tableau
