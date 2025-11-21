@@ -16,8 +16,13 @@
 </div>
 
 <div align="center">
-  <h2>🛠 My Data Analysis Toolkit</h2>
-  <img src="https://skillicons.dev/icons?i=py,pandas,excel,powerbi,tableau,looker,sql" alt="Data Analysis Skills Icons" />
+  <h2>📊 My GitHub Stats</h2>
+  <a href="https://github.com/hadiaahassann-afk">
+    <img src="https://github-readme-stats.vercel.app/api?username=hadiaahassann-afk&show_icons=true&theme=dark&line_height=27&hide_title=true&hide=issues,prs" alt="Hadia Hassan's GitHub Stats" />
+  </a>
+  <a href="https://github.com/hadiaahassann-afk">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaahassann-afk&layout=compact&langs_count=6&theme=dark&hide_title=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -27,24 +32,26 @@ I'm *Hadia Hassan, a passionate **Data Analyst* who enjoys cleaning data, analyz
 
 ---
 
-## 🚀 Skills  
-- Power BI (Data Modeling, DAX)  
-- SQL (Cleaning, Joins, Aggregations)  
-- Python (Pandas, Numpy)  
-- Tableau  
-- Looker Studio  
-- Excel (Pivot Tables, Analysis)  
-- Data Storytelling  
+## 🛠 My Data Analysis Toolkit  
 
----
+<div align="center">
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=azure-sqldatabase&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  ![Looker Studio](https://img.shields.io/badge/Looker_Studio-1A73E8?style=for-the-badge&logo=looker&logoColor=white)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+</div>
+<br>
 
-## 🧰 Tech Toolbox
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=azure-sqldatabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-1A73E8?style=for-the-badge&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+*Skills and Proficiencies:*
+* Power BI (Data Modeling, DAX)  
+* SQL (Cleaning, Joins, Aggregations)  
+* Python (Pandas, Numpy)  
+* Tableau  
+* Looker Studio  
+* Excel (Pivot Tables, Analysis)  
+* Data Storytelling  
 
 ---
 
