@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I'm+a+Data+Analyst.;I+Love+Cleaning+Data+%26+Building+Dashboards!" alt="Typing Effect Header" />
+  <img src="https://svg-banners.vercel.app/api?type=typing&text=I'm+a+Data+Analyst.&font=Ubuntu&color=9400D3&background=black&width=800&height=100&size=40" alt="I'm a Data Analyst" />
 </div>
 
 <br>
