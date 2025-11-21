@@ -2,12 +2,27 @@
 
 <div align="center">
 
-[![Hadia Hassan GIF](https://raw.githubusercontent.com/hadia-hassan/hadia-hassan/main/hadia_hassan_animated.gif)]() 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hadia-hassan)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hadiaa.hassann@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x100/f0f0f0/333333?text=I'm+a+Data+Analyst.+|.+Cleaning+Data.+|.+Building+Dashboards." alt="Animated typing effect: I'm a Data Analyst." />
+</div>
+
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&line_height=27&hide_title=true&hide=issues,prs" alt="Hadia Hassan's GitHub Stats" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=default&hide_title=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -39,7 +54,7 @@ I'm *Hadia Hassan, a passionate **Data Analyst* who enjoys cleaning data, analyz
 ---
 
 ## 📊 Portfolio Projects  
-(اختياري — لو ما دايراها ممكن أمسحها) - Maintenance Cost Analysis Dashboard  
+- Maintenance Cost Analysis Dashboard  
 - Sales Performance Dashboard  
 - SQL Data Cleaning  
 - Trend Visualization in Tableau  
