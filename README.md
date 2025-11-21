@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hadia-hassan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hadiaa.hassann@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadia-hassan)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadiaa.hassann@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hadiaahassann-afk&style=flat&color=orange)
 
@@ -12,16 +12,18 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=I'm+Hadia+Hassan.;Data+Analyst+at+Heart.;I+Love+Building+Dashboards!" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I'm+a+Data+Analyst.;I+Love+Cleaning+Data+%26+Building+Dashboards!" alt="Typing Effect Header" />
 </div>
+
+<br>
 
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
   <a href="https://github.com/hadiaahassann-afk">
-    <img src="https://github-readme-stats.vercel.app/api?username=hadiaahassann-afk&show_icons=true&theme=dark&line_height=27&hide_title=true&hide=issues,prs" alt="Hadia Hassan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hadiaahassann-afk&show_icons=true&theme=dark&line_height=27&hide_title=true&hide=issues,prs,contribs&bg_color=00000000&border_color=9f9f9f" alt="Hadia Hassan's GitHub Stats" />
   </a>
   <a href="https://github.com/hadiaahassann-afk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaahassann-afk&layout=compact&langs_count=6&theme=dark&hide_title=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaahassann-afk&layout=compact&langs_count=6&theme=dark&bg_color=00000000&border_color=9f9f9f&hide_title=true" alt="Top Languages" />
   </a>
 </div>
 
@@ -35,23 +37,15 @@ I'm *Hadia Hassan, a passionate **Data Analyst* who enjoys cleaning data, analyz
 ## 🛠 My Data Analysis Toolkit  
 
 <div align="center">
-  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=azure-sqldatabase&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=black)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-  ![Looker Studio](https://img.shields.io/badge/Looker_Studio-1A73E8?style=for-the-badge&logo=looker&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=py,sql,excel,tableau,powerbi,looker" style="margin-top: 10px;" />
 </div>
+
 <br>
 
 *Skills and Proficiencies:*
-* Power BI (Data Modeling, DAX)  
-* SQL (Cleaning, Joins, Aggregations)  
-* Python (Pandas, Numpy)  
-* Tableau  
-* Looker Studio  
-* Excel (Pivot Tables, Analysis)  
-* Data Storytelling  
+* *Data Visualization & BI:* Power BI (Data Modeling, DAX), Tableau, Looker Studio
+* *Programming & Tools:* Python (Pandas, Numpy), SQL (Cleaning, Joins, Aggregations)
+* *Analysis & Storytelling:* Excel (Pivot Tables, Analysis), Data Storytelling  
 
 ---
 
