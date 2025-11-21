@@ -16,13 +16,8 @@
 </div>
 
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
-  <a href="https://github.com/hadiaahassann-afk">
-    <img src="https://github-readme-stats.vercel.app/api?username=hadiaahassann-afk&show_icons=true&theme=dark&line_height=27&hide_title=true&hide=issues,prs" alt="Hadia Hassan's GitHub Stats" />
-  </a>
-  <a href="https://github.com/hadiaahassann-afk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaahassann-afk&layout=compact&langs_count=6&theme=dark&hide_title=true" alt="Top Languages" />
-  </a>
+  <h2>🛠 My Data Analysis Toolkit</h2>
+  <img src="https://skillicons.dev/icons?i=py,pandas,excel,powerbi,tableau,looker,sql" alt="Data Analysis Skills Icons" />
 </div>
 
 ---
