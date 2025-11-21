@@ -5,23 +5,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hadia-hassan)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hadiaa.hassann@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=hadiaahassann-afk&style=flat&color=orange)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x100/f0f0f0/333333?text=I'm+a+Data+Analyst.+|.+Cleaning+Data.+|.+Building+Dashboards." alt="Animated typing effect: I'm a Data Analyst." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=I'm+Hadia+Hassan.;Data+Analyst+at+Heart.;I+Love+Building+Dashboards!" alt="Typing Effect" />
 </div>
 
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&line_height=27&hide_title=true&hide=issues,prs" alt="Hadia Hassan's GitHub Stats" />
+  <a href="https://github.com/hadiaahassann-afk">
+    <img src="https://github-readme-stats.vercel.app/api?username=hadiaahassann-afk&show_icons=true&theme=dark&line_height=27&hide_title=true&hide=issues,prs" alt="Hadia Hassan's GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=default&hide_title=true" alt="Top Languages" />
+  <a href="https://github.com/hadiaahassann-afk">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaahassann-afk&layout=compact&langs_count=6&theme=dark&hide_title=true" alt="Top Languages" />
   </a>
 </div>
 
